@@ -1,0 +1,2 @@
+# testniprojekt
+spoznavanje GIT-a
